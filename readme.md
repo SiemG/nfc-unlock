@@ -4,8 +4,8 @@ A simple Arduino to Nodejs serial communction program allowing user to unlock ma
 
 Part of the code is forked from https://github.com/suhajdab/lan-unlock
 
-###prerequisites
-Nodejs (https://nodejs.org/) and forever package (https://www.npmjs.com/package/forever) needs to be installed to run current setup. Note the global flag -g when installing forever.
+### Prerequisites
+Nodejs (https://nodejs.org/) and forever package (https://www.npmjs.com/package/forever) needs to be installed to run current setup. Note the global flag `-g` when installing forever.
 
 Arduino [Serial communication enabled Arduino](http://arduino.cc/en/Main/Products).
 
